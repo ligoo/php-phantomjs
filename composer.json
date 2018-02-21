@@ -1,6 +1,6 @@
 {
-    "name": "jonnyw/php-phantomjs",
-    "description": "A PHP wrapper for loading pages through PhantomJS",
+    "name": "ligoo/php-phantomjs",
+    "description": "A PHP wrapper for loading pages through PhantomJS - Forked version with bug fix",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
     "license": "MIT",
@@ -9,7 +9,10 @@
             "name": "Jonny Wenmoth",
             "email": "contact@jonnyw.me",
             "homepage": "http://jonnyw.me/"
-        }
+        },
+	    "name": "Patrick Wunderlin",
+	    "email": "info@ligoo.ch",
+	    "homepage": "http://www.ligoo.ch/"
     ],
     "minimum-stability": "stable",
     "require": {
