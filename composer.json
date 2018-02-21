@@ -10,9 +10,11 @@
             "email": "contact@jonnyw.me",
             "homepage": "http://jonnyw.me/"
         },
+	{
 	    "name": "Patrick Wunderlin",
 	    "email": "info@ligoo.ch",
 	    "homepage": "http://www.ligoo.ch/"
+	}
     ],
     "minimum-stability": "stable",
     "require": {
